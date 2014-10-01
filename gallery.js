@@ -10,9 +10,9 @@ var GALLERY = function (spec) {
     that.slideset.list_orientation = "gal_v";
     that.slideset.content_id = "left_car_img";
     that.slideset.gallery_id = "left_car";
-    that.slideset.back_img_src = "http://images.magnetsusa.com/images/icons/arrow_back.gif";
-    that.slideset.fwd_img_src = "http://images.magnetsusa.com/images/icons/arrow_next.gif";
-    that.slideset.zoom_button = "http://images.magnetsusa.com/images/icons/zoombutton.gif";
+    that.slideset.back_img_src = "";
+    that.slideset.fwd_img_src = "";
+    that.slideset.zoom_button = "";
     that.slideset.slide_count = 15;
     that.slideset = spec;
 
